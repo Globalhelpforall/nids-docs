@@ -1,0 +1,9 @@
+site_name: CyberNeuroRT Documentation
+theme:
+  name: 'mkdocs'  # Optional: change to 'mkdocs' or another theme
+nav:
+  - Home: index.md
+  - Installation: installation.md
+  - Usage: usage.md
+  - API Documentation: api-docs.md
+  - Troubleshooting: troubleshooting.md
